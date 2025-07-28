@@ -1,0 +1,6 @@
+Using Azure DataBricks To:-
+1.Establishing Connection Between ADLS Gen 2 and Azure DataBricks, To access DATA
+2. Processing DATA (Bronze Layer)
+3. DATA Integration & Aggregation(Bronzer Layer)
+4. DATA Enrichment via MongoDB (Bronzer layer)
+5.Sending Processed DATA to (Silver Layer)
